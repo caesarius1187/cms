@@ -76,16 +76,16 @@
         },
         {
             "name": "cakedc/users",
-            "version": "14.2.1",
+            "version": "14.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CakeDC/users.git",
-                "reference": "590c8df933391c8ff513b51bb513788661cb0228"
+                "reference": "85f055d0e9ebec97fa53ecb45b4c706e53caa685"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CakeDC/users/zipball/590c8df933391c8ff513b51bb513788661cb0228",
-                "reference": "590c8df933391c8ff513b51bb513788661cb0228",
+                "url": "https://api.github.com/repos/CakeDC/users/zipball/85f055d0e9ebec97fa53ecb45b4c706e53caa685",
+                "reference": "85f055d0e9ebec97fa53ecb45b4c706e53caa685",
                 "shasum": ""
             },
             "require": {
@@ -155,7 +155,7 @@
                 "issues": "https://github.com/CakeDC/users/issues",
                 "source": "https://github.com/CakeDC/users"
             },
-            "time": "2024-05-24T04:53:55+00:00"
+            "time": "2024-09-05T07:50:04+00:00"
         },
         {
             "name": "cakephp/authentication",
@@ -1383,16 +1383,16 @@
         },
         {
             "name": "psr/log",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "fe5ea303b0887d5caefd3d431c3e61ad47037001"
+                "reference": "79dff0b268932c640297f5208d6298f71855c03e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/fe5ea303b0887d5caefd3d431c3e61ad47037001",
-                "reference": "fe5ea303b0887d5caefd3d431c3e61ad47037001",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/79dff0b268932c640297f5208d6298f71855c03e",
+                "reference": "79dff0b268932c640297f5208d6298f71855c03e",
                 "shasum": ""
             },
             "require": {
@@ -1427,9 +1427,9 @@
                 "psr-3"
             ],
             "support": {
-                "source": "https://github.com/php-fig/log/tree/3.0.0"
+                "source": "https://github.com/php-fig/log/tree/3.0.1"
             },
-            "time": "2021-07-14T16:46:02+00:00"
+            "time": "2024-08-21T13:31:24+00:00"
         },
         {
             "name": "psr/simple-cache",
